@@ -33,7 +33,7 @@ function Home() {
                     image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
                 />
                 <Product
-                    id="123344"
+                    id="122344"
                     title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
                     price={1341}
                     rating={5}
